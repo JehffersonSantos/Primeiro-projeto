@@ -6,6 +6,6 @@ Para rodar esse projeto em sua maquina, pro favor digite:
 
 ````
 
-windows, itenl, seila
+node app.js
 
 ````
